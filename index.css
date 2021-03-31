@@ -14,7 +14,8 @@ body {
 
 .banner {
 	background: black;
-	padding-bottom: 25.9%;
+	/* padding-bottom: 25.9%; */
+	padding-bottom: 28%;
 	background: url('img/banner.png');
 	background-size: 110%;
 	background-repeat: no-repeat;

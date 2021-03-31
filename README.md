@@ -20,3 +20,9 @@ If these do not work, there's an error specific to your system.
 Create a pull request from a new branch and add to this file:
 * Your findings 
 * Loom URL from the upwork post.
+
+
+ Findings:
+* https://docs.google.com/spreadsheets/d/1FwQ_q2sOu0nElFy3UXBPQx9tVJXDCtWlQ8SoHXZdMB8/edit?usp=sharing
+
+* https://www.loom.com/share/c5a3874380f84929af34ad548201917b
